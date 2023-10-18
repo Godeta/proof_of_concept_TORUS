@@ -1,0 +1,1 @@
+Programme à mettre sur le robot (avec kuka sunrise) puis à lancer sur le teach pendant.
