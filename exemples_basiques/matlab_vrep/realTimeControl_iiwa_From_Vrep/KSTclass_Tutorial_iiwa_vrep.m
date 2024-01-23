@@ -16,6 +16,7 @@ warning('off')
 disp('Program started');
 %% Add path of KST class to work space
 cDir = pwd;
+% cDir = "C:\Users\godet\Documents\HEI\HEI4\POC\code\KST-Kuka-Sunrise-Toolbox";
 cDir=getTheKSTDirectory(cDir);
 addpath(cDir);
 
