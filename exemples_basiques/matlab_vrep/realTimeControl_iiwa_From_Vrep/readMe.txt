@@ -1,0 +1,5 @@
+- kst tutorial.m et les remApi sont des fichiers nécessaires pour faire fonctionner coppeliaSim, kuka et matlab ensembles
+- iiwaFromVrep est l'exemple trouvé sur github qui déplace un robot kuka avec coppeliaSim et matlab
+- Il y a plusieurs versions simplifiées jusqu'à iiwaFromVrep-haptic-kuka-control qui permet de contrôler le robot avec l'interface haptique
+- simplified haptic contient juste la démo nécessaire pour faire bouger le robot kuka en simulation avec l'interface haptique
+- clean haptic control contient une scène avec des tables, le phantom et le robot kuka que l'on peut contrôler avec 2 modes en cliquant sur le button
